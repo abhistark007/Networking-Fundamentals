@@ -13,7 +13,10 @@
 ![image](https://user-images.githubusercontent.com/58290134/140178852-e51058cf-75a3-46f4-a2c9-515fc46c14aa.png)
 * To make sure communication between different devices regardless of manufactures so regardless of what vendor you choose there will be no problem of interoperability (the ability of computer systems or software to exchange and make use of information.)
 
+
 * Explaining each layer in OSI Model
+
+
 ![image](https://user-images.githubusercontent.com/58290134/140467346-003fadc4-82df-494e-a702-3c6d8be60a1b.png)
 ![image](https://user-images.githubusercontent.com/58290134/140467451-1713fb1a-94e5-497d-b0ce-0dadcd4351ce.png)
 
